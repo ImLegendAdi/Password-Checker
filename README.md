@@ -59,6 +59,44 @@ password-checker-extension/
 5. Select the **project folder**.
 6. ✅ Done! The extension icon will appear in the toolbar.
 
+2. Sideloading (Manual Install — Developer Mode)
+
+If you don’t want to publish on AMO but still want to install it “semi-permanently”:
+
+    Place your extension folder (unzipped) into:
+
+        Windows: C:\Program Files\Mozilla Firefox\browser\extensions\
+
+        Or place .xpi file there.
+
+    Restart Firefox.
+
+    It will install automatically but will still be flagged as an unverified extension unless signed.
+
+    You can bypass some warnings by using Firefox Developer Edition and setting:
+
+        Go to about:config
+
+        Set xpinstall.signatures.required to false.
+
+ 3. Best Workflow For You (Developer Mode, No Publishing)
+
+    Use Firefox Developer Edition.
+
+    Disable signature requirement:
+
+        Go to about:config
+
+        Set:
+
+            xpinstall.signatures.required → false
+
+            extensions.install.requireBuiltInCerts → false
+
+    Load your unpacked extension manually via about:debugging#/runtime/this-firefox.
+
+    It will stay loaded across sessions unless removed manually.
+    
 ---
 
 ## 🧪 How It Works

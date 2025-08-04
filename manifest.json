@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Password Checker by 3L173 H4CK3R 1337 (@imlegendadi)",
+  "version": "1.0",
+  "description": "Checks password strength and suggests stronger passwords. Created by Aditya Singh aka 3L173 H4CK3R 1337 (ImLegendAdi)",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["script.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon/icon2.png"
+    }
+  },
+  "icons": {
+    "128": "icons/icon2.png"
+  }
+}

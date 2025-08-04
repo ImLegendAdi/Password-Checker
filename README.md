@@ -49,7 +49,7 @@ password-checker-extension/
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository:
+### 1. Clone the repository:
     ```bash
     git clone https://github.com/ImLegendAdi/Password-Checker.git
     ```
@@ -59,7 +59,7 @@ password-checker-extension/
 5. Select the **project folder**.
 6. ✅ Done! The extension icon will appear in the toolbar.
 
-2. Sideloading (Manual Install — Developer Mode)
+### 2. Sideloading (Manual Install — Developer Mode)
 
 If you don’t want to publish on AMO but still want to install it “semi-permanently”:
 
@@ -79,7 +79,7 @@ If you don’t want to publish on AMO but still want to install it “semi-perma
 
         Set xpinstall.signatures.required to false.
 
- 3. Best Workflow For You (Developer Mode, No Publishing)
+### 3. Best Workflow For You (Developer Mode, No Publishing)
 
     Use Firefox Developer Edition.
 

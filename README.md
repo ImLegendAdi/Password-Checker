@@ -51,8 +51,8 @@ password-checker-extension/
 
 ### 1. Clone the repository:
     ```bash
-    git clone https://github.com/ImLegendAdi/Password-Checker.git
-    ```
+    git clone https://github.com/ImLegendAdi/Password-Checker.git ```
+    
 2. Go to `chrome://extensions` in your browser.
 3. Enable **Developer Mode** (top right corner).
 4. Click **Load unpacked**.

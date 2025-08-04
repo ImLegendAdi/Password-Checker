@@ -24,11 +24,6 @@ A lightweight Browser Extension that automatically evaluates password strength o
 
 ---
 
-## 🖥️ Demo Preview
-![Demo Screenshot](https://via.placeholder.com/600x300.png?text=Password+Checker+Demo)
-
----
-
 ## 📂 Project Structure
 
 password-checker-extension/

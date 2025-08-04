@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://go.screenpal.com/watch/cTjfVlnI5o3" 
+  <img src="https://d3v55qvjb2v012.cloudfront.net/gxnf/2025/08/04/01/12/cTjfVlnI5o3/sc.webp?srcid=cTjfVlnI5o3&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kM3Y1NXF2amIydjAxMi5jbG91ZGZyb250Lm5ldC9neG5mLzIwMjUvMDgvMDQvMDEvMTIvY1RqZlZsbkk1bzMvc2Mud2VicD9zcmNpZD1jVGpmVmxuSTVvMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDMxNTAxNX19fV19&Signature=VI9au8zG~kgcBNzUaEEtIkX3Ry2Q4CRAMKvJf9l9Gpx1D-HVYfZTsNPqWHkzdbwjITlz~Z7j0TUffJZNvQFVphMe3k1gj1LTWrbBJvBi8RVNpg6Ml5xGNI8DcOvowDEpDA0bGMPHCTl9I5IPTbboWRYaHNDy30NoQhNmItRIyKg_&Key-Pair-Id=APKAI4E2RN57D46ONMEQ" 
        width="400" alt="Password Checker Demo Preview" />
 </p>
 

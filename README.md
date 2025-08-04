@@ -1,5 +1,7 @@
-<img src="https://d3v55qvjb2v012.cloudfront.net/gxnf/2025/08/04/01/12/cTjfVlnI5o3/sc.webp?srcid=cTjfVlnI5o3&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kM3Y1NXF2amIydjAxMi5jbG91ZGZyb250Lm5ldC9neG5mLzIwMjUvMDgvMDQvMDEvMTIvY1RqZlZsbkk1bzMvc2Mud2VicD9zcmNpZD1jVGpmVmxuSTVvMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDMxNDE4NX19fV19&Signature=U~IZs7iIEMHlc3CdRYt-nPt4tM09bDafK6WWuflf8gKvW197Niro-crQDq-em4oTbP0TDzjHDvIgxDrA75p0pZfNDMins9m8eJmKcWI4lWTx7fv4mTUdTRKtqAt0WR~sLRGfWO5x7nH7BfcTa99uy7007hSiIZcPFpWMgZL514c_&Key-Pair-Id=APKAI4E2RN57D46ONMEQ" width="200" />
-
+<p align="center">
+  <img src="https://d3v55qvjb2v012.cloudfront.net/gxnf/2025/08/04/01/12/cTjfVlnI5o3/sc.webp?srcid=cTjfVlnI5o3&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kM3Y1NXF2amIydjAxMi5jbG91ZGZyb250Lm5ldC9neG5mLzIwMjUvMDgvMDQvMDEvMTIvY1RqZlZsbkk1bzMvc2Mud2VicD9zcmNpZD1jVGpmVmxuSTVvMyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDMxNDE4NX19fV19&Signature=U~IZs7iIEMHlc3CdRYt-nPt4tM09bDafK6WWuflf8gKvW197Niro-crQDq-em4oTbP0TDzjHDvIgxDrA75p0pZfNDMins9m8eJmKcWI4lWTx7fv4mTUdTRKtqAt0WR~sLRGfWO5x7nH7BfcTa99uy7007hSiIZcPFpWMgZL514c_&Key-Pair-Id=APKAI4E2RN57D46ONMEQ" 
+       width="400" alt="Password Checker Demo Preview" />
+</p>
 
 # 🔒 Password Strength Checker Browser Extension
 
